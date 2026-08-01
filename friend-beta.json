@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.1.zip",
-    "sha256": "6a1c0290e37df98a4fa4fbd31e1271cdb58ab23cdd71572cc8ec527736c498bc",
-    "size": 903935,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.1/webby-buy-desk-macos-update-0.2.1.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.2.zip",
+    "sha256": "ee1040a149df1d6779fbb6e7606e5b5834f75adf7c2cac4a0ff69c87a35ab0ab",
+    "size": 905083,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.2/webby-buy-desk-macos-update-0.2.2.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Mac 새 설치가 예전 오라클을 다시 여는 문제 수정",
+  "release_notes": "닥터마틴 1461 공통 모델 가격 후보 확대, 구매희망글 제외, Vintagezet 할인가·상태 인식 개선",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.1"
+  "version": "0.2.2"
 }
