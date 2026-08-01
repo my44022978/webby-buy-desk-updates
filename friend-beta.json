@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.0.zip",
-    "sha256": "1b97a251a9a760e0e0559298695c0152bcc258d054ef26c6c641bef19d2028c2",
-    "size": 903040,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.0/webby-buy-desk-macos-update-0.2.0.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.1.zip",
+    "sha256": "6a1c0290e37df98a4fa4fbd31e1271cdb58ab23cdd71572cc8ec527736c498bc",
+    "size": 903935,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.1/webby-buy-desk-macos-update-0.2.1.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Mac 중앙 업데이트 확인 및 안전 적용",
+  "release_notes": "Mac 새 설치가 예전 오라클을 다시 여는 문제 수정",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.0"
+  "version": "0.2.1"
 }
