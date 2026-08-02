@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.2.zip",
-    "sha256": "ee1040a149df1d6779fbb6e7606e5b5834f75adf7c2cac4a0ff69c87a35ab0ab",
-    "size": 905083,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.2/webby-buy-desk-macos-update-0.2.2.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.3.zip",
+    "sha256": "ed4263ff23b739e17d5fe0be5c1938a642237f6798d219eb506113eda367d5af",
+    "size": 907821,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.3/webby-buy-desk-macos-update-0.2.3.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "닥터마틴 1461 공통 모델 가격 후보 확대, 구매희망글 제외, Vintagezet 할인가·상태 인식 개선",
+  "release_notes": "FruitsFamily 공개 가격 추출 및 매물별 sold 상태 판정 수정",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.2"
+  "version": "0.2.3"
 }
