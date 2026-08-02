@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.3.zip",
-    "sha256": "ed4263ff23b739e17d5fe0be5c1938a642237f6798d219eb506113eda367d5af",
-    "size": 907821,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.3/webby-buy-desk-macos-update-0.2.3.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.4.zip",
+    "sha256": "a878160afd4c157b5a633c234a2982995e98743d75b43e65b54aee1c6e7aafbc",
+    "size": 908586,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.4/webby-buy-desk-macos-update-0.2.4.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "FruitsFamily 공개 가격 추출 및 매물별 sold 상태 판정 수정",
+  "release_notes": "Mac updater CA bundle verification fix and 0.2.1 bootstrap",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.3"
+  "version": "0.2.4"
 }
