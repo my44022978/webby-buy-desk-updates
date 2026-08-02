@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.4.zip",
-    "sha256": "a878160afd4c157b5a633c234a2982995e98743d75b43e65b54aee1c6e7aafbc",
-    "size": 908586,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.4/webby-buy-desk-macos-update-0.2.4.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.5.zip",
+    "sha256": "2c630fefa11af7afbf39bd6283e00a6d3b2796613106f484cfa34aea42fca0e8",
+    "size": 914366,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.5/webby-buy-desk-macos-update-0.2.5.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Mac updater CA bundle verification fix and 0.2.1 bootstrap",
+  "release_notes": "공유 Drive 폴더로 친구 리포트를 한 번에 복사하는 기능을 추가했습니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.4"
+  "version": "0.2.5"
 }
