@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.6.zip",
-    "sha256": "fb4d3e66e46e3194bf47eb6a5c32167a987ad78b28a85d2fdf54ea2b0cbeb40f",
-    "size": 917560,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.6/webby-buy-desk-macos-update-0.2.6.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.7.zip",
+    "sha256": "5bd6f8b257453b9a8584c35ad4a23ec8de1436625ae729172303fe5e04b8b386",
+    "size": 923130,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.7/webby-buy-desk-macos-update-0.2.7.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Mac friend beta 0.2.6: pinned HTTPS compatibility fix",
+  "release_notes": "Mac friend beta 0.2.7: public overseas evidence lanes and sold-coverage status improvements",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.6"
+  "version": "0.2.7"
 }
