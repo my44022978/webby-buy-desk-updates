@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.7.zip",
-    "sha256": "5bd6f8b257453b9a8584c35ad4a23ec8de1436625ae729172303fe5e04b8b386",
-    "size": 923130,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.7/webby-buy-desk-macos-update-0.2.7.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.8.zip",
+    "sha256": "7946780465bc7dba274d3552182ec4950721084231411e20a4c78d9210f66621",
+    "size": 1301562,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.8/webby-buy-desk-macos-update-0.2.8.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Mac friend beta 0.2.7: public overseas evidence lanes and sold-coverage status improvements",
+  "release_notes": "M65/Porter 검증, M65 올리브 모델 파싱 수정, Buy Desk UX·macOS 아이콘 개선",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.7"
+  "version": "0.2.8"
 }
