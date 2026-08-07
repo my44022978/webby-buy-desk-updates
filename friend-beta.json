@@ -1,13 +1,13 @@
 {
   "archive": {
     "filename": "webby-buy-desk-macos-update-0.2.10.zip",
-    "sha256": "d3156b7dbe3f00635a684d969634f721a0ed77cce44b98d847e6a8107482fb8a",
-    "size": 1308037,
+    "sha256": "e94312d91f61c8d24dceaae30588f229c4bca0ef25dd7714d3a0ff06b543c948",
+    "size": 1308035,
     "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.10/webby-buy-desk-macos-update-0.2.10.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "수집 실패와 clean sold 부족을 구분하고 참고 신뢰도 점수를 추가했습니다. 차단 상태 표시 순서도 일관되게 보완했습니다.",
+  "release_notes": "수집 실패와 clean sold 부족을 구분하고 참고 신뢰도 점수를 추가했습니다. 차단 상태 표시 순서와 앱 버전 메타데이터도 정렬했습니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
   "version": "0.2.10"
