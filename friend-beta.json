@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.8.zip",
-    "sha256": "7946780465bc7dba274d3552182ec4950721084231411e20a4c78d9210f66621",
-    "size": 1301562,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.8/webby-buy-desk-macos-update-0.2.8.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.9.zip",
+    "sha256": "d73d5fb0ca65044b663a2fbf31a05a5e18073559ed2129f775bbc210d6d5445f",
+    "size": 1307947,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.9/webby-buy-desk-macos-update-0.2.9.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "M65/Porter 검증, M65 올리브 모델 파싱 수정, Buy Desk UX·macOS 아이콘 개선",
+  "release_notes": "수집 실패와 clean sold 부족을 구분하고 참고 신뢰도 점수를 추가했습니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.8"
+  "version": "0.2.9"
 }
