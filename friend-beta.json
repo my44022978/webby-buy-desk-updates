@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.11.zip",
-    "sha256": "1d2824d806f90778454e330cdbf0a193b89f1fdce73119db3434f6bf4fba9eab",
-    "size": 1308788,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.11/webby-buy-desk-macos-update-0.2.11.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.12.zip",
+    "sha256": "d16a851fd8a204fa1fe13edd9813be19d6782f81ad055ca09adee4b4455a0c20",
+    "size": 1312808,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.12/webby-buy-desk-macos-update-0.2.12.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Smoothie Star·번장 공개 상세 수집 보완, 브랜드 문자열 오탐 수정",
+  "release_notes": "Ragstore/Vintagezet URL normalization, result-first Spider Oracle UX, and public listing QA fixes",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.11"
+  "version": "0.2.12"
 }
