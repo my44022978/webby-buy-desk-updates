@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.13.zip",
-    "sha256": "5e1ec20f7d05294cd4ef0ce14a1ac6532755d6d97c6cf9a9f85ac472936414a1",
-    "size": 1364243,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.13/webby-buy-desk-macos-update-0.2.13.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.14.zip",
+    "sha256": "f038288cedc73ec4101ea6f01d63951f913fad5079550f2c89cf96063655a984",
+    "size": 1364276,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.14/webby-buy-desk-macos-update-0.2.14.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Spider Oracle 0.2.13: 판단 상태와 근거 구분 개선, 상품 식별 설명·빈티지 수동 판단 lane, Raf/Joe McCoy 검색 보정, 대표 매물 12건 QA 반영.",
+  "release_notes": "Spider Oracle 0.2.14: macOS와 Windows에서 상세 리포트·바잉 카드·과거 실행 파일 열기 버튼을 운영체제에 맞게 수정.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.13"
+  "version": "0.2.14"
 }
