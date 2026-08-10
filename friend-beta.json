@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.16.zip",
-    "sha256": "49d3fc713f266fa16c63fe044b49f03d7001f0020929a3c37b3d26cf5a8ab050",
-    "size": 1374202,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.16/webby-buy-desk-macos-update-0.2.16.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.17.zip",
+    "sha256": "1f8eadbf567a2c8a805aec720fc4575c018c1781f0cb334a8c6e08cda7848bec",
+    "size": 1374200,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.17/webby-buy-desk-macos-update-0.2.17.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Spider Oracle 0.2.16: 실행 시 검증된 업데이트 자동 적용과 Finder 앱 아이콘을 반영했습니다.",
+  "release_notes": "Spider Oracle 0.2.17: 실행기 경로 안정화 및 Mac 친구 자동 업데이트 개선",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.16"
+  "version": "0.2.17"
 }
