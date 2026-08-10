@@ -1,14 +1,14 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.14.zip",
-    "sha256": "f038288cedc73ec4101ea6f01d63951f913fad5079550f2c89cf96063655a984",
-    "size": 1364276,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.14/webby-buy-desk-macos-update-0.2.14.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.15.zip",
+    "sha256": "6422703430c6403fe442b7103462b0691457ced5b777f8161ae3f305ba1c9b02",
+    "size": 1373594,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.15/webby-buy-desk-macos-update-0.2.15.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Spider Oracle 0.2.14: macOS와 Windows에서 상세 리포트·바잉 카드·과거 실행 파일 열기 버튼을 운영체제에 맞게 수정.",
+  "release_notes": "Spider Oracle 0.2.15: 참고 시세 요약과 Fast/Deep 수집 모드, macOS·Windows 상세 리포트 열기 개선을 반영했습니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.14"
+  "version": "0.2.15"
 }
