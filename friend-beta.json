@@ -1,14 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.17.zip",
-    "sha256": "1f8eadbf567a2c8a805aec720fc4575c018c1781f0cb334a8c6e08cda7848bec",
-    "size": 1374200,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.17/webby-buy-desk-macos-update-0.2.17.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.18.zip",
+    "sha256": "20b8d630d7b27c49eb3c53165ea2c135cb2c3e638c6c31ceab8e835273ab6497",
+    "size": 1456497,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.18/webby-buy-desk-macos-update-0.2.18.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Spider Oracle 0.2.17: 실행기 경로 안정화 및 Mac 친구 자동 업데이트 개선",
+  "release_notes": "0.2.18: 실제 읽은 근거·매입 매력도·신뢰도·Mac 업데이트 검증을 반영했습니다. 네트워크나 검증에 실패하면 기존 설치를 안전하게 유지합니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.17"
+  "source_commit": "9de73c48bce9628ba9b4f1195274243c18279eb1",
+  "version": "0.2.18"
 }
