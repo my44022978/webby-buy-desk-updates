@@ -1,14 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.19.zip",
-    "sha256": "770d1303db3e89eed1c89b588f36c0f02fa58cabd744875c6bfea78666d234d2",
-    "size": 1457500,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.19/webby-buy-desk-macos-update-0.2.19.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.20.zip",
+    "sha256": "48a23d4c15bda02ce7658931c035a873f8bc7e219d8e2fd6828a5de001b77ae4",
+    "size": 1461090,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.20/webby-buy-desk-macos-update-0.2.20.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "0.2.19: 구버전 자동 업데이트 연결을 복구했습니다. 이후 업데이트는 출처 커밋 검증을 계속 적용합니다.",
+  "release_notes": "0.2.20: 검색 근거 링크·중앙값 우선 화면과 공개 참고 수집 속도를 개선했습니다. 실행 시 자동 업데이트가 적용됩니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "version": "0.2.19"
+  "source_commit": "060bc2c49111458d51bbc1ad11ff69a1936047d1",
+  "version": "0.2.20"
 }
