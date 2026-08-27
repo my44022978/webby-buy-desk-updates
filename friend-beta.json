@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.23.zip",
-    "sha256": "e8e4a01da0aa2665c9e7aaadf807d56965e8fbfaf9936333f15ef8b7410eef33",
-    "size": 1478673,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.23/webby-buy-desk-macos-update-0.2.23.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.24.zip",
+    "sha256": "bc6736219259f051ea64d1d7cf76bb99d1f6e9508357bd9d62eb985b015f858a",
+    "size": 1482842,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.24/webby-buy-desk-macos-update-0.2.24.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "0.2.23: 동형 현재 시세의 중앙값·근거 링크를 더 정확히 구분해 확인할 수 있게 했고, 좁은 화면의 시세표 표시를 개선했습니다. 자동 업데이트와 실행기 검증은 유지됩니다.",
+  "release_notes": "0.2.24: 자동 업데이트 뒤 Mac 앱 번들의 로컬 서명을 안전하게 새로 적용하고, 실패 시 원복 기록과 백업 경로 검증을 강화했습니다. 기존 업데이트 검증과 단일 실행 보호는 유지됩니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "e7953077d7f62036ffbd29ba310f0708700c6472",
-  "version": "0.2.23"
+  "source_commit": "fddf4e038589e10599c7300ac7a6daf7d4908878",
+  "version": "0.2.24"
 }
