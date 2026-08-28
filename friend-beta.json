@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.26.zip",
-    "sha256": "184a88213824b92646438e679b0742cdd654aafe73ec4f983d03a681663a8de1",
-    "size": 1485213,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.26/webby-buy-desk-macos-update-0.2.26.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.27.zip",
+    "sha256": "eab92c7bc16ef1f81d0c5f7322b4496c285980824ab9d0d4b9a850b1bc71158e",
+    "size": 1486409,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.27/webby-buy-desk-macos-update-0.2.27.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "0.2.26: 구버전에서 자동 업데이트한 첫 클릭 안에 새 실행기로 안전하게 인계해 앱 서명 복구와 실행을 완료합니다. 실패하면 원복하며 단일 실행 보호를 유지합니다.",
+  "release_notes": "수동/CSV의 쉼표 금액을 안정적으로 읽고, 미확인 환율 행은 매입 판단·점수·근거에 반영하지 않도록 보강했습니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "8df3d3b2096dc429d0af2393523fb9a696161910",
-  "version": "0.2.26"
+  "source_commit": "f8211afccff7f277501bef130138a9be0ebfecd0",
+  "version": "0.2.27"
 }
