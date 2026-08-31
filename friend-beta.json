@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.29.zip",
-    "sha256": "52c21184bd43691870e1f935c777dab0251a6a42d8e38fe0fb376ceb4b3c4382",
-    "size": 1489765,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.29/webby-buy-desk-macos-update-0.2.29.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.30.zip",
+    "sha256": "278efcf9a7fdc314c8239eab3eb71b81b2d1e78d7a865062a9c8e0f7c1a03597",
+    "size": 1497413,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.30/webby-buy-desk-macos-update-0.2.30.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "공개 국내·해외 시세 수집 확대, 실제 읽은 매물 링크·중앙값·N/M/K 확인 강화, 입력 오류·쉬운 한국어·색상 일관성 개선, 사용자 화면의 검증된 죽은 정의 정리.",
+  "release_notes": "제품 매력도와 가격·근거 기반 매입 점수를 분리하고, 확인된 이미지·정체성 연결이 없으면 제품 매력도를 만들지 않도록 안전 경계를 강화했습니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "a96d21310dd46b6eb8d42090c4d31d30e6694b95",
-  "version": "0.2.29"
+  "source_commit": "270e07175ddebaba8f77beb7eef30e5f9b60e063",
+  "version": "0.2.30"
 }
