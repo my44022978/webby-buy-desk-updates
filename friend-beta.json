@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.28.zip",
-    "sha256": "85de9ff39fbf176677f3ca41652eba7cff399980760ff26ca0a3e78aae6fc616",
-    "size": 1489502,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.28/webby-buy-desk-macos-update-0.2.28.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.29.zip",
+    "sha256": "52c21184bd43691870e1f935c777dab0251a6a42d8e38fe0fb376ceb4b3c4382",
+    "size": 1489765,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.29/webby-buy-desk-macos-update-0.2.29.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "국내·해외 참고 매물의 모델 정밀도와 출처 표시를 개선하고, 첫 실행 입력 안내·버전 표시를 더 명확하게 다듬었습니다.",
+  "release_notes": "공개 국내·해외 시세 수집 확대, 실제 읽은 매물 링크·중앙값·N/M/K 확인 강화, 입력 오류·쉬운 한국어·색상 일관성 개선, 사용자 화면의 검증된 죽은 정의 정리.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "664b01fcd15666a65c903a2f199e649b60120b44",
-  "version": "0.2.28"
+  "source_commit": "a96d21310dd46b6eb8d42090c4d31d30e6694b95",
+  "version": "0.2.29"
 }
