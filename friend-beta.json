@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.33.zip",
-    "sha256": "cac2036fb6f54afd8ba14a2a75f12fec3d5eea0d79c209858685c9e3e283117d",
-    "size": 1516255,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.33/webby-buy-desk-macos-update-0.2.33.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.34.zip",
+    "sha256": "50e3f0773c0b9e6b1650c0a7a21c4391c44631d791bb8de9493270fda84baf06",
+    "size": 1518519,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.34/webby-buy-desk-macos-update-0.2.34.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "0.2.33: Mac 입력 정보와 권한 상태를 구분하고, 참고 매물 1~2건은 개별 가격으로 표시합니다. 폴로·BAPE 협업 판정과 현재 실행의 진단 리포트를 보완했습니다.",
+  "release_notes": "0.2.34: 큰 진단 CSV 처리 오류와 검증 실패를 완료로 표시하던 문제를 수정했습니다. 현재 실행의 실패 상태와 검증 기록을 정확히 안내합니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "5dfb48718fcee60d19950d91788e9026c169f855",
-  "version": "0.2.33"
+  "source_commit": "f276803f33aaad41b41a2b96b1e6c1814a1725ea",
+  "version": "0.2.34"
 }
