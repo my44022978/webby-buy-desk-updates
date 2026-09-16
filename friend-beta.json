@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.34.zip",
-    "sha256": "50e3f0773c0b9e6b1650c0a7a21c4391c44631d791bb8de9493270fda84baf06",
-    "size": 1518519,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.34/webby-buy-desk-macos-update-0.2.34.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.35.zip",
+    "sha256": "fa62165085e75db5fa840b420f1ec46876f64290e798d4e712e62c7f0ee6a6e3",
+    "size": 1519857,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.35/webby-buy-desk-macos-update-0.2.35.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "0.2.34: 큰 진단 CSV 처리 오류와 검증 실패를 완료로 표시하던 문제를 수정했습니다. 현재 실행의 실패 상태와 검증 기록을 정확히 안내합니다.",
+  "release_notes": "0.2.35: 연대를 상품번호로 검색하던 오류, 일반 중고품·사진 안내의 하자 오인, 가격 근거 없는 안전권 암시 문구를 수정했습니다. 기존 리포트·설정은 보존됩니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "f276803f33aaad41b41a2b96b1e6c1814a1725ea",
-  "version": "0.2.34"
+  "source_commit": "9d1f43d438f8d5d46f01bbbbbe7de4d2708b0dae",
+  "version": "0.2.35"
 }
