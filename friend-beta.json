@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.35.zip",
-    "sha256": "fa62165085e75db5fa840b420f1ec46876f64290e798d4e712e62c7f0ee6a6e3",
-    "size": 1519857,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.35/webby-buy-desk-macos-update-0.2.35.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.36.zip",
+    "sha256": "62be19fa81c4baf99b983999e6944ebaf8850cdb4e7cc7dc70e4c7c9c24aaea5",
+    "size": 1539212,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.36/webby-buy-desk-macos-update-0.2.36.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "0.2.35: 연대를 상품번호로 검색하던 오류, 일반 중고품·사진 안내의 하자 오인, 가격 근거 없는 안전권 암시 문구를 수정했습니다. 기존 리포트·설정은 보존됩니다.",
+  "release_notes": "Spider Oracle 0.2.36 — 내부 판매 참고 및 판정 기록\n\n- 기존 매입 판정 옆에서 웨비 내부 판매의 30일·90일 회수 참고값을 확인할 수 있습니다.\n- 직접 매입과 위탁을 구분하고, 관찰 기간·표본 수·판매일 누락과 자료의 한계를 함께 표시합니다.\n- 상품 분류가 충돌하거나 비교할 자료가 없으면 확인 필요로 남깁니다.\n- 실행 시점의 판정을 로컬에 기록하고, 이후 구매·판매 결과를 별도로 연결할 수 있습니다.\n- 내부 장부 자료와 판정 기록은 공개 업데이트 파일이나 친구에게 보내는 리포트와 진단용 ZIP에 포함하지 않습니다.\n\n내부 회수 참고값은 안전 매입가나 원금 회수 보장이 아닙니다. 기존 매입 상한·보류 기준은 유지되며 구글 시트에 접근하거나 수정하지 않습니다. 내부 자료는 이 컴퓨터에 보관한 별도 자료를 사용하므로, 친구 설치본에는 자동으로 전달되지 않습니다.\n\n모델을 정확히 확인할 수 없거나 일치 표본이 부족한 상품은 내부 숫자가 나오지 않습니다. 이 업데이트가 모든 상품의 가격 판단을 가능하게 하는 것은 아닙니다.\n",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "9d1f43d438f8d5d46f01bbbbbe7de4d2708b0dae",
-  "version": "0.2.35"
+  "source_commit": "604f665fade8de9d80d567b3a4e38c723b7d88e5",
+  "version": "0.2.36"
 }
