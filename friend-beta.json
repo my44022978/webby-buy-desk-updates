@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.36.zip",
-    "sha256": "62be19fa81c4baf99b983999e6944ebaf8850cdb4e7cc7dc70e4c7c9c24aaea5",
-    "size": 1539212,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.36/webby-buy-desk-macos-update-0.2.36.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.37.zip",
+    "sha256": "163f3e492cf9bb58f36a5f283e9687d2e644571c847cc7ff1a52eaa2db390850",
+    "size": 1542894,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.37/webby-buy-desk-macos-update-0.2.37.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Spider Oracle 0.2.36 — 내부 판매 참고 및 판정 기록\n\n- 기존 매입 판정 옆에서 웨비 내부 판매의 30일·90일 회수 참고값을 확인할 수 있습니다.\n- 직접 매입과 위탁을 구분하고, 관찰 기간·표본 수·판매일 누락과 자료의 한계를 함께 표시합니다.\n- 상품 분류가 충돌하거나 비교할 자료가 없으면 확인 필요로 남깁니다.\n- 실행 시점의 판정을 로컬에 기록하고, 이후 구매·판매 결과를 별도로 연결할 수 있습니다.\n- 내부 장부 자료와 판정 기록은 공개 업데이트 파일이나 친구에게 보내는 리포트와 진단용 ZIP에 포함하지 않습니다.\n\n내부 회수 참고값은 안전 매입가나 원금 회수 보장이 아닙니다. 기존 매입 상한·보류 기준은 유지되며 구글 시트에 접근하거나 수정하지 않습니다. 내부 자료는 이 컴퓨터에 보관한 별도 자료를 사용하므로, 친구 설치본에는 자동으로 전달되지 않습니다.\n\n모델을 정확히 확인할 수 없거나 일치 표본이 부족한 상품은 내부 숫자가 나오지 않습니다. 이 업데이트가 모든 상품의 가격 판단을 가능하게 하는 것은 아닙니다.\n",
+  "release_notes": "Mac 일반 실행에서 개발용 테스트 자료를 요구해 QA_ARTIFACT_MISSING으로 막히던 오류와 당근 공유 주소 입력 문제를 수정했습니다.\n\n- 설치된 앱은 현재 실행에 필요한 결과와 검증 자료를 확인합니다.\n- 참고가격만 있거나 근거가 부족한 정상 실행은 해당 상태로 표시합니다. 실제 자료 누락·손상, 실행 기록 불일치와 처리 실패는 계속 차단합니다.\n- 당근의 숫자형 /articles/ 주소와 공유 문구를 처리하며, 글 번호를 상품명으로 검색하지 않습니다. 상품명을 읽을 수 없으면 직접 입력하도록 안내합니다.\n- 매입 권한과 가격 산정 기준은 변경하지 않았습니다.\n\n업데이트한 뒤 문제가 났던 매물을 다시 실행해 주세요. 기존 오류 실행 기록은 보존됩니다.\n",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "604f665fade8de9d80d567b3a4e38c723b7d88e5",
-  "version": "0.2.36"
+  "source_commit": "d54c79c8a73bb5797692b6a91007368106c1fe79",
+  "version": "0.2.37"
 }
