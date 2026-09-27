@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.37.zip",
-    "sha256": "163f3e492cf9bb58f36a5f283e9687d2e644571c847cc7ff1a52eaa2db390850",
-    "size": 1542894,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.37/webby-buy-desk-macos-update-0.2.37.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.38.zip",
+    "sha256": "b0eb6bc095a9112e79463d089b138164c3264254b26db67c9a8d8ccc431305f8",
+    "size": 1546559,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.38/webby-buy-desk-macos-update-0.2.38.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "Mac 일반 실행에서 개발용 테스트 자료를 요구해 QA_ARTIFACT_MISSING으로 막히던 오류와 당근 공유 주소 입력 문제를 수정했습니다.\n\n- 설치된 앱은 현재 실행에 필요한 결과와 검증 자료를 확인합니다.\n- 참고가격만 있거나 근거가 부족한 정상 실행은 해당 상태로 표시합니다. 실제 자료 누락·손상, 실행 기록 불일치와 처리 실패는 계속 차단합니다.\n- 당근의 숫자형 /articles/ 주소와 공유 문구를 처리하며, 글 번호를 상품명으로 검색하지 않습니다. 상품명을 읽을 수 없으면 직접 입력하도록 안내합니다.\n- 매입 권한과 가격 산정 기준은 변경하지 않았습니다.\n\n업데이트한 뒤 문제가 났던 매물을 다시 실행해 주세요. 기존 오류 실행 기록은 보존됩니다.\n",
+  "release_notes": "도트 등 상품 특징을 놓치던 검색과 늦게 표시되는 공개 상품 목록 수집을 개선했습니다.\n\n- 국내 검색에 짧은 브랜드·특징 검색을 포함하고 해외 검색에도 도트 특징을 유지합니다.\n- 기존 제한시간 안에서 상품 목록이 준비되는지 확인합니다.\n- 원래 입력한 매물은 비교 시세에서 제외합니다. 가격 근거가 없으면 신뢰도를 높게 표시하지 않습니다.\n- 번장 일반 배송비를 총 매입비용에 반영합니다.\n\n유사 매물 발견이 동일상품 시세 확인을 뜻하지는 않습니다. 이베이는 자동 수집 환경에 오류 페이지가 반환될 수 있으며, 이 경우 매물 없음이나 수집 성공으로 판단하지 않습니다.\n기존 실행 기록과 개인 자료는 보존됩니다.\n",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "d54c79c8a73bb5797692b6a91007368106c1fe79",
-  "version": "0.2.37"
+  "source_commit": "7ccaa9d07fea2dd2ccae3786583a8b644b8369c1",
+  "version": "0.2.38"
 }
