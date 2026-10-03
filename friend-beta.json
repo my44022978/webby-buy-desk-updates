@@ -1,15 +1,15 @@
 {
   "archive": {
-    "filename": "webby-buy-desk-macos-update-0.2.40.zip",
-    "sha256": "b09c2112ab17796af7011656a7cd39395647f03267424fee1ea2e2b8f7256d2d",
-    "size": 1557778,
-    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.40/webby-buy-desk-macos-update-0.2.40.zip"
+    "filename": "webby-buy-desk-macos-update-0.2.41.zip",
+    "sha256": "974873382939d6f74c2698cfdcd4094cda1130bb20342dea021e4471fce701a5",
+    "size": 1561667,
+    "url": "https://github.com/my44022978/webby-buy-desk-updates/releases/download/0.2.41/webby-buy-desk-macos-update-0.2.41.zip"
   },
   "channel": "friend-beta",
   "product": "webby-buy-desk",
-  "release_notes": "# 웨비 바잉 오라클 0.2.40 패치노트\n\n오라클 진단 화면에 이 기기에 저장된 실행 기록의 월별 점수 표시율을 추가했습니다. 점수 계산 상태와 참고 상한·정식 BUY 허용 여부를 구분해 볼 수 있습니다.\n\n- 진단 화면에서 실행 결과, 제품 매력도·가격/근거 점수·근거 신뢰도·참고 상한가의 표시율과 정식 BUY 허용률을 서울 시간 기준 월별로 보여줍니다.\n- 점수가 계산되지 않은 경우는 상태별로 집계합니다. 참고 상한이 없거나 정식 BUY가 막힌 경우에는 정해진 상태·사유별로 집계합니다. 판정 카드가 없거나 분류되지 않은 값도 따로 확인할 수 있습니다.\n- 표시율과 BUY 허용률은 이 기기에 남은 오라클 실행 기록만 기준으로 집계합니다. 판매 성과나 예측 정확도를 뜻하지 않습니다. 점수 계산식, 안전 상한, BUY 승인 기준은 바뀌지 않았습니다.",
+  "release_notes": "Spider Oracle 0.2.41\n\n매입 점수를 계산하지 못하더라도, 이번 실행에서 확인한 국내외 참고가격과 실제 매물 링크를 먼저 볼 수 있도록 정리했습니다.\n\n- ‘져지·저지·로럴’ 같은 일반 표현을 모델명으로 오인해 비교 매물을 누락하던 문제를 수정했습니다. ‘네이비 블루’ 같은 색상 표현도 문맥에 맞게 처리합니다.\n- 동일 모델, 모델이 확인되지 않은 같은 브랜드·품목, 소재가 다른 매물을 각각의 가격군으로 나눕니다. 국내·해외와 판매중·거래완료도 구분해 보여줍니다.\n- 표본이 3건 이상인 가격군은 중앙값과 가격 범위를, 1~2건이면 확인한 개별 가격을 보여줍니다. 입력한 매입가와 참고 호가의 단순 차이도 안전 매입상한과 별도로 볼 수 있습니다.\n- 없는 점수와 반복 안내는 상세 정보로 모으고, 모델·사이즈·하자를 원문에서 확인할 수 있도록 다음 행동을 정리했습니다.\n- 현재 실행과의 연결, 판정 대상 매물 제외, 중복 매물과 오래된 수집자료 제외는 유지합니다. 해외 가격의 통화·환산 기준과 배송·관세 포함 여부도 구분합니다.\n\n참고 호가는 실제 판매가격이나 수익을 보장하지 않습니다. 이번 업데이트는 수집 성공률·판매속도 개선이나 BUY 보증을 뜻하지 않으며, 기존 매입상한과 매입 승인 기준은 유지합니다.",
   "repository": "my44022978/webby-buy-desk-updates",
   "schema_version": "webby.macos-update-feed.v1",
-  "source_commit": "6906ea11e6eea3eb6b09873f7a17663503bb74f4",
-  "version": "0.2.40"
+  "source_commit": "cc18ddb39efb2a7f9c095b460be54f398c8ed412",
+  "version": "0.2.41"
 }
